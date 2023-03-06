@@ -7,4 +7,5 @@ with the help of opencv and Convolutional Neural Network(CNN) we also find how m
 here are some Broken and new insert tools for refrance:
  ![Tool_Bad (19)](https://user-images.githubusercontent.com/124488153/223075237-802b0c38-f8e2-4e87-a39f-6d3da8ca45ac.jpg)
 
-![Tool_Good (95)](https://user-images.githubusercontent.com/124488153/223075606-01199c39-fee2-4fda-81b0-2915bedfe705.jpg)
+
+![Tool_Good (74)](https://user-images.githubusercontent.com/124488153/223075860-37bd68db-2115-4988-b8b0-2daca56e2aa8.jpg)
